@@ -1,0 +1,5 @@
+transformers
+torch
+streamlit
+datasets   # optional, if you use Hugging Face datasets
+sentencepiece   # optional for some tokenizers
